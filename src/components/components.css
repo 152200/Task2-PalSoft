@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Nav Bar Styling start */
+
+.nav-bar {
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.home-about-contact {
+    display: flex;
+    color: rgb(80, 95, 152);
+}
+
+.home-about-contact span {
+    margin: 0 2.5rem ;
+}
+
+.landing span {
+    width: 38px;
+    height: 79px;
+    font-size: 200%;
+    color: #37447E;
+    font-weight: bold;
+}
+.buy-now-button {
+    width: 160px;
+    height: 26px;
+    background-color: #111B47;
+    color: #FFFF;
+    border: solid 1px #ffff;
+    border-radius: 3px 3px;
+}
+
+
+
+/* Nav Bar Styling end */
+
+/* first par styling start */
+
+.first-par {
+    margin-top: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.the-image img{
+    width: 780px;
+    height: 974px;
+}
+
+.the-par pre{
+    font-size: large;
+    margin-top: 150px;
+}
+
+.first-button {
+    padding: 5px;
+    height: 36px;
+    width: 189.13px;
+    color: white;
+    background-color: #111b47;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.second-button {
+    width: 189px;
+    height: 36px;
+    padding: 5px;
+    color: #091133;
+    border: solid 1px #091133;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: white;
+}
+
+/* first par styling end */
+
+/* second par styling start */
+
+.second-par {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* second par styling end */
